@@ -38,22 +38,20 @@
   "community": "discord.gg/5KANB8dZ",
   "status": "Building cool stuff ⚡"
 }
-```
+
 </td>
 </tr>
 </table>
 🛠️ Tech Stack & Tools
 <div align="center">
-| Category | Technologies |
-|---|---|
-| Languages | JavaScript, TypeScript, Python, HTML5, CSS3/Sass |
-| Frontend | React.js, Next.js, Tailwind CSS, Redux, Bootstrap |
-| Backend | Node.js, Express.js, REST APIs, GraphQL |
-| Databases | MongoDB, PostgreSQL, Firebase, Redis |
-| DevOps & Tools | Git, GitHub, Docker, Vercel, VS Code, Postman |
-</div>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,git,github,docker,vscode,vercel,html,css" alt="Tech Stack Icons" />
+Languages & Core
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
+Frontend & Styling
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux" alt="Frontend" />
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,redis" alt="Backend & DB" />
+DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman" alt="Tools" />
 </div>
 📊 GitHub Stats & Metrics
 <div align="center">

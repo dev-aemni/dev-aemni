@@ -38,7 +38,7 @@
   "community": "discord.gg/5KANB8dZ",
   "status": "Building cool stuff ⚡"
 }
-
+```
 </td>
 </tr>
 </table>

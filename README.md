@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://dev-aemni.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aemni+%F0%9F%91%8B;C%2C+C%2B%2B+%26+Android+Developer;Building+Fast+CLI+%26+Web+Tools" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://dev-aemni.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--aemni.github.io-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -37,4 +42,3 @@
 <p align="center">
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/dev-aemni/dev-aemni/output/github-contribution-grid-snake.svg" />
 </p>
-

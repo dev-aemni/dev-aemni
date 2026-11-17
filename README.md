@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://dev-aemni.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aemni+%F0%9F%91%8B;C%2C+C%2B%2B+%26+Android+Developer;Building+Fast+CLI+%26+Web+Tools" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Hi%20there!%20I'm%20Aemni&fontSize=40&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Developer%20%26%20Systems%20Enthusiast&descSize=16&descAlign=50&descAlignY=65" alt="Header Banner" />
 </div>
 
 <div align="center">

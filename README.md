@@ -6,9 +6,9 @@
 <div align="center">
 
   [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-dev--aemni.github.io-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-aemni.github.io)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5KANB8dZ)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-aemni)
   [![Twitter/X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_aemni)
-  [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on building scalable full-stack web applications and crafting immersive UI/UX experiences.
 - 🌱 I’m currently exploring advanced system design, cloud architectures, and modern web animations.
 - 💬 Ask me about JavaScript, TypeScript, React, Node.js, and everything in between.
-- 📫 How to reach me: Check out my [Portfolio](https://dev-aemni.github.io) or drop a message!
+- 💬 Let's chat! Join my [Discord Community](https://discord.gg/5KANB8dZ) or hit up my [Portfolio](https://dev-aemni.github.io).
 
 </td>
 <td width="50%">
@@ -35,5 +35,9 @@
   "location": "Earth 🌍",
   "focus": ["Web Dev", "UI/UX", "Open Source"],
   "learning": "Cloud & System Design",
+  "community": "discord.gg/5KANB8dZ",
   "status": "Building cool stuff ⚡"
 }
+</td>
+</tr>
+</table>

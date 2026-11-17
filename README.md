@@ -1,4 +1,4 @@
-<!-- ✨ HEADER BANNER ✨ -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=220&section=header&text=Hi%20there!%20I'm%20Aemni&fontSize=45&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20&%20Creative%20Coder&descSize=18&descAlign=50&descAlignY=65" alt="Header Banner" />
 </div>
@@ -38,7 +38,40 @@
   "community": "discord.gg/5KANB8dZ",
   "status": "Building cool stuff ⚡"
 }
-```
+
 </td>
 </tr>
 </table>
+🛠️ Tech Stack & Tools
+<div align="center">
+| Category | Technologies |
+|---|---|
+| Languages | JavaScript, TypeScript, Python, HTML5, CSS3/Sass |
+| Frontend | React.js, Next.js, Tailwind CSS, Redux, Bootstrap |
+| Backend | Node.js, Express.js, REST APIs, GraphQL |
+| Databases | MongoDB, PostgreSQL, Firebase, Redis |
+| DevOps & Tools | Git, GitHub, Docker, Vercel, VS Code, Postman |
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,git,github,docker,vscode,vercel,html,css" alt="Tech Stack Icons" />
+</div>
+📊 GitHub Stats & Metrics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-aemni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="dev-aemni's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aemni&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&ring=3fb950&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" width="48%" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aemni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+</div>
+🐍 GitHub Contribution Snake
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-aemni/dev-aemni/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-aemni/dev-aemni/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-aemni/dev-aemni/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,12,0&height=100&section=footer" alt="Footer Banner" />
+</div>
+
